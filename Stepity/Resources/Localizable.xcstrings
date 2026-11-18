@@ -1,0 +1,1514 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ км"
+          }
+        }
+      }
+    },
+    "%@ km from home": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ км от дома"
+          }
+        }
+      }
+    },
+    "%@ km more · about %lld min": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ещё %@ км · примерно %lld мин"
+          }
+        }
+      }
+    },
+    "%@ km more · about %lld min of walking": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ещё %@ км · примерно %lld мин ходьбы"
+          }
+        }
+      }
+    },
+    "%@ km to go — a little more than your usual week": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Осталось %@ км — чуть больше твоей обычной недели"
+          }
+        }
+      }
+    },
+    "%lld weeks in a row": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld week in a row"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld weeks in a row"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld неделя подряд"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld недели подряд"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld недель подряд"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld недели подряд"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "+%@ km along the way": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%@ км по пути"
+          }
+        }
+      }
+    },
+    "+%@ steps": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%@ шагов"
+          }
+        }
+      }
+    },
+    "+%lld m towards %@": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld м к цели: %@"
+          }
+        }
+      }
+    },
+    "1,000 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 000 км"
+          }
+        }
+      }
+    },
+    "10 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10 км"
+          }
+        }
+      }
+    },
+    "10,000 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10 000 км"
+          }
+        }
+      }
+    },
+    "100 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100 км"
+          }
+        }
+      }
+    },
+    "100 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "120 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "120 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "150 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "150 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "2,500 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 500 км"
+          }
+        }
+      }
+    },
+    "250 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "250 км"
+          }
+        }
+      }
+    },
+    "30 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "40 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "40 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "5 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5 км"
+          }
+        }
+      }
+    },
+    "5,000 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5 000 км"
+          }
+        }
+      }
+    },
+    "50 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "50 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "500 km": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "500 км"
+          }
+        }
+      }
+    },
+    "60 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "60 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "70 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "70 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "85 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "85 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "90 laps of a stadium": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "90 кругов по стадиону"
+          }
+        }
+      }
+    },
+    "A marathon": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Марафон"
+          }
+        }
+      }
+    },
+    "After every walk, see what changed": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "После каждой прогулки — смотри, что изменилось"
+          }
+        }
+      }
+    },
+    "Along the Bosphorus": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вдоль Босфора"
+          }
+        }
+      }
+    },
+    "An estimate: without an Apple Watch it's worked out from your steps.": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это оценка: без Apple Watch считаем по шагам."
+          }
+        }
+      }
+    },
+    "Around the equator": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вокруг экватора"
+          }
+        }
+      }
+    },
+    "Bayterek": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Байтерек"
+          }
+        }
+      }
+    },
+    "Burj Khalifa": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бурдж-Халифа"
+          }
+        }
+      }
+    },
+    "Climbing": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подъём"
+          }
+        }
+      }
+    },
+    "Conquered": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покорено"
+          }
+        }
+      }
+    },
+    "Continue": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Продолжить"
+          }
+        }
+      }
+    },
+    "Day by day": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "По дням"
+          }
+        }
+      }
+    },
+    "Distance": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Расстояние"
+          }
+        }
+      }
+    },
+    "Done! The rest of the week is a bonus": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово! Остаток недели — бонус"
+          }
+        }
+      }
+    },
+    "Drag to spin, pinch to zoom.": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проведи, чтобы покрутить, сведи пальцы, чтобы приблизить."
+          }
+        }
+      }
+    },
+    "Eiffel Tower": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Эйфелева башня"
+          }
+        }
+      }
+    },
+    "Elbrus": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Эльбрус"
+          }
+        }
+      }
+    },
+    "Energy": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Энергия"
+          }
+        }
+      }
+    },
+    "Enough to charge an iPhone %lld times": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Enough to charge an iPhone %lld time"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Enough to charge an iPhone %lld times"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Хватило бы зарядить iPhone %lld раз"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Хватило бы зарядить iPhone %lld раза"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Хватило бы зарядить iPhone %lld раз"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Хватило бы зарядить iPhone %lld раза"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Everest": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Эверест"
+          }
+        }
+      }
+    },
+    "Every week you close, your line on the globe glows brighter. Miss a day — nothing burns; miss a week — the glow fades, the kilometres stay.": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С каждой закрытой неделей твоя линия на глобусе светится ярче. Пропустил день — ничего не сгорит, пропустил неделю — свечение погаснет, а километры останутся."
+          }
+        }
+      }
+    },
+    "Ferris wheel": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Колесо обозрения"
+          }
+        }
+      }
+    },
+    "First kilometre": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Первый километр"
+          }
+        }
+      }
+    },
+    "First kilometre — conquered": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Первый километр — покорён"
+          }
+        }
+      }
+    },
+    "Five-storey block": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пятиэтажка"
+          }
+        }
+      }
+    },
+    "Floors": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Этажи"
+          }
+        }
+      }
+    },
+    "Floors climb towers and mountains, from Bayterek to Everest": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Этажи поднимают тебя на башни и горы — от Байтерека до Эвереста"
+          }
+        }
+      }
+    },
+    "Floors: %lld · %lld m": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Этажей: %lld · %lld м"
+          }
+        }
+      }
+    },
+    "Globe": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Глобус"
+          }
+        }
+      }
+    },
+    "Golden Gate Bridge ×25": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мост Золотые Ворота ×25"
+          }
+        }
+      }
+    },
+    "Golden Gate Bridges": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "мостов Золотые Ворота"
+          }
+        }
+      }
+    },
+    "Half marathon": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Полумарафон"
+          }
+        }
+      }
+    },
+    "I've walked %@ km — on foot I'd be in %@. #Stepity": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Я прошёл %@ км — пешком я был бы уже здесь: %@. #Stepity"
+          }
+        }
+      }
+    },
+    "Into your collection": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В твою коллекцию"
+          }
+        }
+      }
+    },
+    "Journey": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Путь"
+          }
+        }
+      }
+    },
+    "Khan Tengri": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хан-Тенгри"
+          }
+        }
+      }
+    },
+    "Let's go": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поехали"
+          }
+        }
+      }
+    },
+    "Let's walk": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Идём"
+          }
+        }
+      }
+    },
+    "Manhattan end to end": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Манхэттен из конца в конец"
+          }
+        }
+      }
+    },
+    "Manhattan there and back": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Манхэттен туда и обратно"
+          }
+        }
+      }
+    },
+    "Marathon": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Марафон"
+          }
+        }
+      }
+    },
+    "Mont Blanc": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Монблан"
+          }
+        }
+      }
+    },
+    "Mount Fuji": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фудзи"
+          }
+        }
+      }
+    },
+    "Next stop": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Следующая остановка"
+          }
+        }
+      }
+    },
+    "Race your friends": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гонки с друзьями"
+          }
+        }
+      }
+    },
+    "Read from Health only. Nothing leaves your iPhone.": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Только чтение из «Здоровья». Ничего не покидает iPhone."
+          }
+        }
+      }
+    },
+    "Rest stop": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Привал"
+          }
+        }
+      }
+    },
+    "Share": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поделиться"
+          }
+        }
+      }
+    },
+    "Show as food": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать едой"
+          }
+        }
+      }
+    },
+    "Show as phone charges": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать зарядками телефона"
+          }
+        }
+      }
+    },
+    "Since %@": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С %@ года"
+          }
+        }
+      }
+    },
+    "Since last time": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С прошлого раза"
+          }
+        }
+      }
+    },
+    "Soon: the week's goal becomes a race, with everyone's dot on the same route.": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Скоро: цель недели станет гонкой — точки всех друзей на одном маршруте."
+          }
+        }
+      }
+    },
+    "Streak": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Серия"
+          }
+        }
+      }
+    },
+    "That was before us.": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это было до нас."
+          }
+        }
+      }
+    },
+    "That was before. Start the journey": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это было до нас. Начать путь"
+          }
+        }
+      }
+    },
+    "The Seine through Paris ×4": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сена через Париж ×4"
+          }
+        }
+      }
+    },
+    "The new path starts today": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Новый путь начинается сегодня"
+          }
+        }
+      }
+    },
+    "The water starts here": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отсюда начинается вода"
+          }
+        }
+      }
+    },
+    "This week's goal": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цель недели"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сегодня"
+          }
+        }
+      }
+    },
+    "Today so far: %@ km towards %@": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сегодня уже %@ км к цели: %@"
+          }
+        }
+      }
+    },
+    "Week": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Неделя"
+          }
+        }
+      }
+    },
+    "You made it to your dream": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ты дошёл до мечты"
+          }
+        }
+      }
+    },
+    "You'd be in %@": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ты был бы здесь: %@"
+          }
+        }
+      }
+    },
+    "You'd be in the middle of the ocean": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ты был бы посреди океана"
+          }
+        }
+      }
+    },
+    "You'd be out at sea, past %@": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ты был бы в море, за городом %@"
+          }
+        }
+      }
+    },
+    "Your steps draw a line across the world, from your home to your dream": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Шаги рисуют линию по миру — от твоего дома к мечте"
+          }
+        }
+      }
+    },
+    "Your steps so far": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Твои шаги до сегодня"
+          }
+        }
+      }
+    },
+    "and up %@ Everests of stairs": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "и поднялся по лестницам на %@ Эвереста"
+          }
+        }
+      }
+    },
+    "baursaks": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "баурсаки"
+          }
+        }
+      }
+    },
+    "burgers": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "бургеры"
+          }
+        }
+      }
+    },
+    "chips": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "чипсы"
+          }
+        }
+      }
+    },
+    "football pitches": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "футбольных полей"
+          }
+        }
+      }
+    },
+    "fries": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "фри"
+          }
+        }
+      }
+    },
+    "on foot": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "пешком"
+          }
+        }
+      }
+    },
+    "stadium laps": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "кругов по стадиону"
+          }
+        }
+      }
+    },
+    "steps": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "шагов"
+          }
+        }
+      }
+    },
+    "≈ %lld Golden Gate Bridges": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld Golden Gate Bridge"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld Golden Gate Bridges"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld мост Золотые Ворота"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld моста Золотые Ворота"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld мостов Золотые Ворота"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld моста Золотые Ворота"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "≈ %lld baursaks": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld baursak"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld baursaks"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld баурсак"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld баурсака"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld баурсаков"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld баурсака"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "≈ %lld burgers": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld burger"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld burgers"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld бургер"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld бургера"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld бургеров"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld бургера"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "≈ %lld chips": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld chip"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld chips"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld чипсина"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld чипсины"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld чипсин"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld чипсины"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "≈ %lld football pitches": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld football pitch"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld football pitches"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld футбольное поле"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld футбольных поля"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld футбольных полей"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld футбольного поля"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "≈ %lld fries": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld fry"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld fries"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld палочка фри"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld палочки фри"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld палочек фри"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld палочки фри"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "≈ %lld kcal": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "≈ %lld ккал"
+          }
+        }
+      }
+    },
+    "≈ %lld stadium laps": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld stadium lap"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld stadium laps"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld круг по стадиону"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld круга по стадиону"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld кругов по стадиону"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "≈ %lld круга по стадиону"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
